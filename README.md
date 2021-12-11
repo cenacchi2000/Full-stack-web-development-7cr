@@ -5,38 +5,40 @@ The README also contains a link to the application's operating instructions and 
 
 Working time accounting and repository commit history match each other fully.
 
+25 exercises for part 10 where additionally submitted of the course on React Native, in order to earn two additional credits. (5cr + 2cr)
+
 
 | day | hours | What was done  |
 | :----:|:-----| :-----|
-| 11.12. | 6    |  |
-| 12.12. | 4    |  |
-| 13.12. | 7    |  |
-| 14.12. | 4    |  |
-| 15.12. | 5    |  |
-| 16.12. | 5    |  |
-| 17.12. | 2    | |
-| 18.12. | 6    |  |
-| 19.12. | 5    |  |
-| 20.12. | 4    |  |
-| 21.12. | 6    |  |
-| 22.12. | 5    |  |
-| 23.12. | 4    |  |
-| 24.12. | 2    |  |
-| 25.12. | 5    |  |
-| 26.12. | 3    |  |
-| 27.12. | 6    |  |
-| 28.12. | 7    | |
-| 29.12. | 4    |  |
-| 30.12. | 5    |  |
-| 31.12. | 1    |  |
-| 1.1.   | 3    |  |
-| 2.1.   | 3    |  |
-| 3.1.   | 5    |  |
-| 4.1.  | 5    |  |
-| 5.1.  | 7    |  |
-| 6.1.  | 3    |  |
-| 7.1.  | 4    |  |
-| 8.1.  | 5    |  |
-| 9.1.  | 6    | |
-| 10.1. | 4    |  |
-| Total  | 140   | | 
+| 11.12. | 6    | Exercises 0.1.-0.6.  |
+| 12.12. | 4    | Exercises 1.1.-1.2. |
+| 13.12. | 7    | Exercises 1.3.-1.5. |
+| 14.12. | 4    |  Exercises 1.6.-1.14. |
+| 15.12. | 5    |  Exercises 2.1.-2.5. |
+| 16.12. | 5    | Exercises 2.6.-2.10. |
+| 17.12. | 2    | Exercises 2.11.-2.14. |
+| 18.12. | 6    | Exercises 2.15.-2.18. |
+| 19.12. | 5    | Exercises 2.19.-2.20. |
+| 20.12. | 4    | Exercises 3.1.-3.6. |
+| 21.12. | 6    | Exercises 3.7.-3.8.  |
+| 22.12. | 5    | Exercises 3.9.-3.11.|
+| 23.12. | 4    | Exercises 3.13.-3.14. |
+| 24.12. | 2    |  Exercises 3.15.-3.18. |
+| 25.12. | 5    |  Exercises 3.19.-3.21. Exercise 3.22.|
+| 26.12. | 3    | Exercises 4.1.-4.2. |
+| 27.12. | 6    | Exercises 4.3.-4.7. |
+| 28.12. | 7    | Exercises 4.8.-4.12. |
+| 29.12. | 4    | Exercises 4.13.-4.14.|
+| 30.12. | 5    | Exercises 4.15.-4.23.|
+| 31.12. | 1    | Exercises 5.1.-5.4. |
+| 1.1.   | 3    | Exercises 5.5.-5.10. |
+| 2.1.   | 3    | Exercises 5.11.-5.12.|
+| 3.1.   | 5    |  Exercises 5.13.-5.16.|
+| 4.1.  | 5    | Exercises 5.17.-5.22. |
+| 5.1.  | 3    | Exercises 6.1.-6.2.|
+| 6.1.  | 3    | Exercises 6.3.-6.8.|
+| 7.1.  | 5    | Exercises 6.9.-6.12. Exercises 6.13.-6.14. |
+| 8.1.  | 6    | Exercises 6.15.-6.18. Exercises 6.19.-6.21. |
+| 9.1.  | 5    | Exercises 7.1.-7.3. Exercises 7.4.-7.8. |
+| 10.1. | 6    | Exercises 7.9.-7.21. |
+| Total  | 140   | 149 Exercises | 
