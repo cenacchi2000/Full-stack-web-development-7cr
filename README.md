@@ -10,11 +10,11 @@ Working time accounting and repository commit history match each other fully.
 
 | day | hours | What was done  |
 | :----:|:-----| :-----|
-| 11.12. | 1    | Review the basics of HTML by reading this tutorial from Mozilla. Exercises 0.1.|
-|        | 1    | Review the basics of CSS by reading this tutorial from Mozilla. Exercises 0.2.|
-|        | 1    | Learn about the basics of HTML forms by reading Mozilla's tutorial. Exercises 0.3.|
+| 11.12. | 1    | Review of the basics of HTML by reading this tutorial from Mozilla. Exercises 0.1.|
+|        | 1    | Review of the basics of CSS by reading this tutorial from Mozilla. Exercises 0.2.|
+|        | 1    | Learning about the basics of HTML forms by reading Mozilla's tutorial. Exercises 0.3.|
 |        | 1    | Creation of a diagram for new note from the example given in the theory. Exercises 0.4.|
-|        | 1    | Single page app. Exercises 0.5.|   
+|        | 1    | Single page app implementation. Exercises 0.5.|   
 |        | 1    | Creation of a new note. Exercises 0.6.| 
 | 12.12. | 4    | Exercises 1.1.-1.2. |
 | 13.12. | 2    | Exercises 1.3.-1.5. |
