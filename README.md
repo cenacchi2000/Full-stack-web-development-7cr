@@ -31,8 +31,8 @@ Working time accounting and repository commit history match each other fully.
 | 24.12. | 2    | Exercises 3.15.-3.18. |
 | 25.12. | 4    | Exercises 3.19.-3.21. |
 |        | 1    | Exercise 3.22.|
-| 26.12. | 2    | Exercises 4.3.-4.7. |
-|        | 2    | Exercises 4.15.-4.23.|
+| 26.12. | 2    | Exercises  4.1.-4.3.|
+|        | 2    | Exercises 4.3.-4.7.|
 | 27.12. | 2    | Exercises 4.8.-4.12.    |
 |        | 1    | Exercises 4.13.-4.14|
 |        | 3    | Exercises 4.15.-4.23.|
