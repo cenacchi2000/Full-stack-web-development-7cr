@@ -23,22 +23,22 @@ Working time accounting and repository commit history match each other fully.
 | 21.12. | 6    | Exercises 3.7.-3.8.  |
 | 22.12. | 5    | Exercises 3.9.-3.11.|
 | 23.12. | 4    | Exercises 3.13.-3.14. |
-| 24.12. | 2    |  Exercises 3.15.-3.18. |
-| 25.12. | 5    |  Exercises 3.19.-3.21. Exercise 3.22.|
-| 26.12. | 3    | Exercises 4.1.-4.2. |
-| 27.12. | 6    | Exercises 4.3.-4.7. |
-| 28.12. | 7    | Exercises 4.8.-4.12. |
-| 29.12. | 4    | Exercises 4.13.-4.14.|
-| 30.12. | 5    | Exercises 4.15.-4.23.|
-| 31.12. | 1    | Exercises 5.1.-5.4. |
-| 1.1.   | 3    | Exercises 5.5.-5.10. |
-| 2.1.   | 3    | Exercises 5.11.-5.12.|
-| 3.1.   | 5    |  Exercises 5.13.-5.16.|
-| 4.1.  | 5    | Exercises 5.17.-5.22. |
-| 5.1.  | 3    | Exercises 6.1.-6.2.|
-| 6.1.  | 3    | Exercises 6.3.-6.8.|
-| 7.1.  | 5    | Exercises 6.9.-6.12. Exercises 6.13.-6.14. |
-| 8.1.  | 6    | Exercises 6.15.-6.18. Exercises 6.19.-6.21. |
-| 9.1.  | 5    | Exercises 7.1.-7.3. Exercises 7.4.-7.8. |
-| 10.1. | 6    | Exercises 7.9.-7.21. |
+| 24.12. | 2    | Exercises 3.15.-3.18. |
+| 25.12. | 5    | Exercises 3.19.-3.21. Exercise 3.22.|
+| 26.12. | 3    | Exercises 4.1.-4.2. Exercises 4.3.-4.7.|
+| 27.12. | 6    | Exercises 4.8.-4.12.  Exercises 4.13.-4.14 Exercises 4.15.-4.23. |
+| 28.12. | 5    | Exercises 5.1.-5.4. |
+| 29.12. | 4    | Exercises 5.5.-5.10. Exercises 5.11.-5.12.|
+| 30.12. | 5    | Exercises 5.13.-5.16. Exercises 5.17.-5.22.|
+| 31.12. | 1    |  Exercises 6.1.-6.2. |
+| 1.1.   | 3    |  Exercises 6.3.-6.8. |
+| 2.1.   | 5    | Exercises 6.9.-6.12. Exercises 6.13.-6.14.|
+| 3.1.   | 6    |  Exercises 6.15.-6.18. Exercises 6.19.-6.21. |
+| 4.1.   | 5    | Exercises 7.1.-7.3. Exercises 7.4.-7.8. |
+| 5.1.   | 3    | Exercises 7.9.-7.21.|
+| 6.1.   | 5    | Exercise 10.1 Exercise 10.2|
+| 7.1.   | 3    | Exercise 10.3. |
+| 8.1.   | 4    | Exercises 10.4. - 10.5. |
+| 9.1.   | 5    | Exercises 10.6. - 10.10. |
+| 10.1.  | 6    | Exercises 10.11. - 10.24. Exercises 10.25.-10.27.|
 | Total  | 140   | 149 Exercises | 
