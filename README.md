@@ -1,5 +1,5 @@
 # Full-stack-web-development-7cr
-The README.md file in this GitHub repository contains a link to the address where the application is running. For the React Native mobile application implemented at Expo , the repository has a public link through which the application can be launched in the Expo mobile application. 
+The README.md file in this GitHub repository contains a link to the address where the application is running. For the React Native mobile application implemented at Expo, the repository has a public link through which the application can be launched in the Expo mobile application. 
 
 The README also contains a link to the application's operating instructions and time and attendance records. The total number of working hours was determined from the working time accounting.
 
