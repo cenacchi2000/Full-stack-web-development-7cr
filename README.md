@@ -26,13 +26,13 @@ Heroku Site where Phonebook app is hosted: https://evening-reaches-36113.herokua
 | 17.12. | 2    | Exercises 2.11.-2.14. |
 | 18.12. | 6    | Exercises 2.15.-2.18. |
 | 19.12. | 5    | Exercises 2.19.-2.20. |
-| 20.12. | 4    | Exercises 3.1.-3.6. |
+| 20.12. | 5    | Exercises 3.1.-3.6. |
 | 21.12. | 6    | Exercises 3.7.-3.8.  |
 | 22.12. | 5    | Exercises 3.9.-3.11.|
 | 23.12. | 4    | Exercises 3.13.-3.14. |
-| 24.12. | 2    | Exercises 3.15.-3.18. |
-| 25.12. | 4    | Exercises 3.19.-3.21. |
-|        | 1    | Exercise 3.22.|
+| 24.12. | 4    | Exercises 3.15.-3.18. |
+| 25.12. | 4    | Exercises 3.19.-3.20. |
+|        | 3    | Exercise 4.1.-4.2.|
 | 26.12. | 2    | Exercises 4.3.-4.7. |
 |        | 2    | Exercises 4.15.-4.23.|
 | 27.12. | 2    | Exercises 4.8.-4.12.    |
@@ -43,19 +43,10 @@ Heroku Site where Phonebook app is hosted: https://evening-reaches-36113.herokua
 |        | 2    | Exercises 5.11.-5.12.|
 | 30.12. | 3    | Exercises 5.13.-5.16. |
 |        | 3    | Exercises 5.17.-5.22.|
-| 31.12. | 1    | Exercises 6.1.-6.2. |
-| 1.1.   | 3    | Exercises 6.3.-6.8. |
-| 2.1.   | 3    | Exercises 6.9.-6.12. |
-|        | 4    | Exercises 6.13.-6.14.|
-| 3.1.   | 4    | Exercises 6.15.-6.18.|
-|        | 2    | Exercises 6.19.-6.21.|
-| 4.1.   | 3    | Exercises 7.1.-7.3.  |
-|        | 2    | Exercises 7.4.-7.8.|
-| 5.1.   | 3    | Exercises 7.9.-7.21.|
 | 6.1.   | 5    | Exercise 10.1 - 10.2|
 | 7.1.   | 3    | Exercise 10.3. |
 | 8.1.   | 4    | Exercises 10.4. - 10.5. |
 | 9.1.   | 5    | Exercises 10.6. - 10.10. |
 | 10.1.  | 4    | Exercises 10.11. - 10.24. |
 |        | 2    | Exercises 10.25.-10.27.|
-| Total  | 140   | 176 Exercises | 
+
