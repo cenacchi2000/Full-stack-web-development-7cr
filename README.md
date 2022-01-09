@@ -5,6 +5,8 @@ The README also contains a link to the application's operating instructions and 
 
 Working time accounting and repository commit history match each other fully.
 
+Heroku Site where Phonebook app is hosted: https://evening-reaches-36113.herokuapp.com/
+
 27 exercises for part 10 were additionally submitted of the course on React Native, in order to earn two additional credits.
 
 
