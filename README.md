@@ -56,4 +56,4 @@ Working time accounting and repository commit history match each other fully.
 | 9.1.   | 5    | Exercises 10.6. - 10.10. |
 | 10.1.  | 4    | Exercises 10.11. - 10.24. |
 |        | 2    | Exercises 10.25.-10.27.|
-| Total  | 140   | 176 Exercises | 
+| Total  | 129   | 176 Exercises | 
