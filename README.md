@@ -44,9 +44,9 @@ Heroku Site where Phonebook app is hosted: https://evening-reaches-36113.herokua
 | 30.12. | 3    | Exercises 5.13.-5.16. |
 |        | 3    | Exercises 5.17.-5.22.|
 | 6.1.   | 5    | Exercise 10.1 - 10.2|
-| 7.1.   | 3    | Exercise 10.3. |
-| 8.1.   | 4    | Exercises 10.4. - 10.5. |
-| 9.1.   | 5    | Exercises 10.6. - 10.10. |
-| 10.1.  | 4    | Exercises 10.11. - 10.24. |
+| 9.1.   | 3    | Exercise 10.3. |
+| 11.1.  | 4    | Exercises 10.4. - 10.5. |
+| 13.1.  | 5    | Exercises 10.6. - 10.10. |
+| 15.1.  | 4    | Exercises 10.11. - 10.24. |
 |        | 2    | Exercises 10.25.-10.27.|
 
